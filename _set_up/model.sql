@@ -45,3 +45,4 @@ from
 join categories c using (category_id)
 join authors a using (author_id)
 ;
+
